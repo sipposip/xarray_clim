@@ -1,5 +1,6 @@
 # xarray-clim
-wrapper functions for xarray to perform common tasks in analyzing gridded climate and weather data
+wrapper functions for xarray to perform common tasks in analyzing gridded climate and weather data.
+
 This module contains wrapper functions for xarray. The functions are 
 designed to make typical in analyzing gridded climate and weather data
 as easy as possible. The functions are desinged to closely resemble
