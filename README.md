@@ -44,4 +44,3 @@ wirtten in python3
 
 @author: Sebastian Scher (seb1000 on github)
 
-Feedback is highly appreciated and can be sent to sebastian.scher@misu.su.se
